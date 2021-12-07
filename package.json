@@ -1,4 +1,10 @@
 {
+  "me": "learning-site",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
   "devDependencies": {
     "autoprefixer": "^10.4.0",
     "parcel": "^2.0.1",
