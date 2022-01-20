@@ -2,7 +2,7 @@
   "me": "learning-site",
   "source": "src/index.html",
   "scripts": {
-    "start": "parcel src/index.html",
+    "start": "parcel src/*.html",
     "build": "parcel build"
   },
   "devDependencies": {
